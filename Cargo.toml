@@ -1,0 +1,10 @@
+[workspace]
+
+members = [
+    "guessing_game",
+    "hello_cargo",
+    "hello_world",
+    "variables",
+    "branches",
+    "ownership"
+]
