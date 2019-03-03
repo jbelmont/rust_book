@@ -9,5 +9,6 @@ members = [
     "ownership",
     "structs",
     "rectangles",
-    "methods"
+    "methods",
+    "match_control_flow"
 ]
