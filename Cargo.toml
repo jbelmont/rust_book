@@ -10,5 +10,8 @@ members = [
     "structs",
     "rectangles",
     "methods",
-    "match_control_flow"
+    "match_control_flow",
+    "vectors",
+    "strings",
+    "hash_maps"
 ]
