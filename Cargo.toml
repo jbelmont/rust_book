@@ -13,5 +13,9 @@ members = [
     "match_control_flow",
     "vectors",
     "strings",
-    "hash_maps"
+    "hash_maps",
+    "generic_function",
+    "generics",
+    "traits",
+    "lifetimes"
 ]
