@@ -17,5 +17,6 @@ members = [
     "generic_function",
     "generics",
     "traits",
-    "lifetimes"
+    "lifetimes",
+    "adder"
 ]
