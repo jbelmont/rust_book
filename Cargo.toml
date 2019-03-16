@@ -18,5 +18,6 @@ members = [
     "generics",
     "traits",
     "lifetimes",
-    "adder"
+    "adder",
+    "minigrep"
 ]
