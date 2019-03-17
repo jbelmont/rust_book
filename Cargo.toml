@@ -19,5 +19,7 @@ members = [
     "traits",
     "lifetimes",
     "adder",
-    "minigrep"
+    "minigrep",
+    "closures",
+    "iterators"
 ]
