@@ -21,5 +21,6 @@ members = [
     "adder",
     "minigrep",
     "closures",
-    "iterators"
+    "iterators",
+    "crates",
 ]
