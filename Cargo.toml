@@ -28,5 +28,8 @@ members = [
     "destructor",
     "rc",
     "refcell",
-    "ref_cycles"
+    "ref_cycles",
+    "threads",
+    "mpsc",
+    "shared_concurrency"
 ]
