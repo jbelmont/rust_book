@@ -23,4 +23,10 @@ members = [
     "closures",
     "iterators",
     "crates",
+    "cons",
+    "deref",
+    "destructor",
+    "rc",
+    "refcell",
+    "ref_cycles"
 ]
