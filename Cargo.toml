@@ -31,5 +31,8 @@ members = [
     "ref_cycles",
     "threads",
     "mpsc",
-    "shared_concurrency"
+    "shared_concurrency",
+    "object_oriented",
+    "trait_objects",
+    "state_machine"
 ]
