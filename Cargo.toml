@@ -34,5 +34,7 @@ members = [
     "shared_concurrency",
     "object_oriented",
     "trait_objects",
-    "state_machine"
+    "state_machine",
+    "patterns",
+    "pattern_syntax"
 ]
