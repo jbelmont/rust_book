@@ -42,5 +42,6 @@ members = [
     "advanced_traits",
     "advanced_types",
     "advanced_functions_and_closures",
-    "macros"
+    "macros",
+    "single_thread_web_server"
 ]
