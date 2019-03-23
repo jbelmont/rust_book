@@ -36,5 +36,11 @@ members = [
     "trait_objects",
     "state_machine",
     "patterns",
-    "pattern_syntax"
+    "pattern_syntax",
+    "unsafe_rust",
+    "advanced_lifetimes",
+    "advanced_traits",
+    "advanced_types",
+    "advanced_functions_and_closures",
+    "macros"
 ]
